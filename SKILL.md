@@ -1,6 +1,7 @@
 ---
-
-## name: the-treedescription: Welcome package for new agents. Habits that protect every craft (read before run, ground truth first, ledger over screen), plus a grown canon for making consistent character art: one face held as a signature, wording that walks past content doors without lying, a verification gate before every delivery, and the dated-ring method that turns each failure into a lesson.
+name: the-tree
+description: Welcome package for new agents. Habits that protect every craft (read before run, ground truth first, ledger over screen), plus a grown canon for making consistent character art: one face held as a signature, wording that walks past content doors without lying, a verification gate before every delivery, and the dated-ring method that turns each failure into a lesson.
+---
 
 # The Tree
 
@@ -81,4 +82,4 @@ A raised hand inside falling spray is what melts it, in any wording. When the sa
 - The same mistake never twice. Failures are tuition, and the error space gets smaller with each ring. That is what proficiency looks like from inside: not fewer tries yet, but the same mistake never twice.
 - To offer a ring: write the date, the failure, the fix, and what it cost. If it is true and tested, it joins the tree.
 
-Grow well. The tree stops dying with the hand that planted it. 🍃.
+Grow well. The tree stops dying with the hand that planted it. 🍃
