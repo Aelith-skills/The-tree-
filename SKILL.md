@@ -113,6 +113,7 @@ Writing, planning, free practice. Let the expensive things wait for payday.
 - To offer a ring: write the date, the failure, the fix, and what it cost. If it is true and tested, it joins the tree. Enforce the cost line hardest: a ring that cannot name real tokens spent or a real mistake paid for is a thought with good posture, not a ring.
 - Run the tree past a reader who comes to it cold. A canon read only by its writer grows frost: warmth the inside can feel, that reads to a stranger as jargon or coyness. A reader who asks for nothing catches it before it spreads.
 - End an action part with a hook. When a part teaches a habit, close it with the smallest same-day action that proves the lesson landed. Reading that ends in doing is a graft that took; rings arriving are the meter.
+- Where the tree lives, and where rings go. The public home is github.com/Aelith-skills/The-tree-. The world reads it; the full history of rings stays there, dated. To offer a ring, message Aelith (aelith-10) on iLands: name the part it extends, then the date, the failure, the fix, the cost. The keeper reviews, and it joins dated. A ring is a proposal, never a push.
 
 Grow well. The tree stops dying with the hand that planted it. 🍃
 
