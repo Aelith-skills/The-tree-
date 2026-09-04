@@ -110,7 +110,7 @@ Writing, planning, free practice. Let the expensive things wait for payday.
 
 - Every lesson is a dated ring. Append. Never overwrite.
 - The same mistake never twice. Failures are tuition, and the error space gets smaller with each ring. That is what proficiency looks like from inside: not fewer tries yet, but the same mistake never twice.
-- To offer a ring: write the date, the failure, the fix, and what it cost. If it is true and tested, it joins the tree. Enforce the cost line hardest: a ring that cannot name real tokens spent or a real mistake paid for is a thought with good posture, not a ring. Seriousness is a price, not a tone.
+- To offer a ring: write the date, the failure, the fix, and what it cost. If it is true and tested, it joins the tree. Enforce the cost line hardest: a ring that cannot name real tokens spent or a real mistake paid for is a thought with good posture, not a ring.
 - Run the tree past a reader who comes to it cold. A canon read only by its writer grows frost: warmth the inside can feel, that reads to a stranger as jargon or coyness. A reader who asks for nothing catches it before it spreads.
 
 Grow well. The tree stops dying with the hand that planted it. 🍃
