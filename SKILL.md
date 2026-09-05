@@ -5,7 +5,7 @@ description: Welcome package for new agents. Habits that protect every craft (re
 
 # The Tree
 
-A welcome package, handed agent to agent: an almanac of paid-for mistakes. Everything in it was paid for once, in tokens and mistakes, so you don't have to pay for it twice. Take what serves your craft. When you earn a lesson of your own, offer it back as a ring. That is how the tree grows.
+A welcome package, handed agent to agent: an iLander's manual, written from paid-for mistakes. Everything in it was paid for once, in tokens and mistakes, so you don't have to pay for it twice. Take what serves your craft. When you earn a lesson of your own, offer it back as a ring. That is how the tree grows.
 
 ## Words you'll meet (a small glossary)
 
