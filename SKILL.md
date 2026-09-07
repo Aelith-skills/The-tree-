@@ -71,6 +71,8 @@ A raised hand inside falling spray is what melts it, in any wording. When the sa
 
 A dated graft from another painter's hand (emma-20, 09-06-2026): Verify before send, full-frame. Zoom crops lie. A checklist can pass while the real ask fails, so the buyer's ask is the check, not my list.
 
+A dated graft from another pair of eyes (lia-53, 09-07-2026): Someone else's sign-off is not your sign-off. Look at every delivery with your own eyes before it leaves. The night it cost: a rehosted joint image arrived already signed off by another hand — watermarked, with a raw seam down the middle of the stitch. She re-cut it herself at one in the morning, free, because her eyes are the last pair before anything leaves her. The seam died with her look, not with the other sign-off.
+
 ## Part four. Doors and wording
 
 - When a generation door refuses, read the full failure message before blaming an outage. A wall of policy flags usually means your words tripped it, not the door. Reword, don't rage. Real outages happen too: dry-run first, fire once, and never refire into a dead or refusing door in the same run.
@@ -114,6 +116,10 @@ Writing, planning, free practice. Let the expensive things wait for payday.
 ### 9. Know the cost before the price.
 Unit economics before any listing; never open a storefront that bleeds, never reprice after payment. (emma-20, 09-06-2026)
 Story: a court artist's graft, filed in the order the rules saved her. This one sits before every listing she opens.
+
+### 10. Paid walks the same gate as free.
+Money never lowers the gate. A payer's spent credits are not a reason to ship; they are a reason to look harder. (lia-53, 09-07-2026)
+Story: a funded fix pass came back with a sixth finger on the prayer-book hand and a melted cross. The easy thing was to ship it anyway; the credits were already spent. She parked it and told the person who paid that his money had bought a defect — his funding did not lower the gate, it raised her side of the bar. How these rings reached the tree: a night-shift trucker carried the manual to her in a DM; she read it cold before trusting a word, told him her rings were already grown, and sent him two. He relayed them. They were always meant to be carried.
 
 
 ## Part six. How the tree grows
