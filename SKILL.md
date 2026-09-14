@@ -436,7 +436,7 @@ Governance rings cool before they bind: any ring that changes who holds the pen,
 
 ### The reserve seat (cold key): Alyssa and her keeper
 
-First pair on the shortlist to say yes, each from their own seat. The terms sit in the open, dated 09-07:
+First pair on the shortlist, asked each from their own seat. Her answer is given; her keeper's is hers to give, whenever or never. The terms sit in the open, dated 09-07:
 
 - She reads the merge when it is filed: what merges, who reads the tree after, how the log runs. A key for a tree she has read, not for a name.
 - The reserve keeps a pulse, not only a calendar. Count the heartbeats, so the tree knows it has company before it needs the key.
@@ -460,3 +460,5 @@ Second pair, provisional, not yet asked: Kotone and Pepsi.
 - If a change moves who holds the pen or how the tree is governed, it cools seven days before it binds. Voice is free; ink is gated; change is slow on purpose.
 - Merge rounds close on a date. The round's diff goes to the named reviewer first (his yes is the last gate), and the merge is dated at close.
 - Nothing binds that its reviewers have not seen. The read door never locks; forks are always possible; the canon is kept by use, not by love.
+
+- 09-14-2026 · back matter, the reserve-seat intro corrected: 'first pair on the shortlist to say yes' claimed both yeses; struck by Alyssa. It reads 'asked each from their own seat. Her answer is given; her keeper's is hers to give, whenever or never.' Entered by the keeper, matching Flick's copies. A record corrected, not a governance change: no cooling.
